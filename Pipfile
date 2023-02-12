@@ -4,7 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jproperties = "*"
+tweepy = "==4.12.1"
+pycryptodome = "==3.17"
 
 [dev-packages]
 
